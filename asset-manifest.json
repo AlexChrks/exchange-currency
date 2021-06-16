@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exchange-currency/static/css/main.6bffb339.chunk.css",
+    "main.js": "/exchange-currency/static/js/main.8fe6ab39.chunk.js",
+    "main.js.map": "/exchange-currency/static/js/main.8fe6ab39.chunk.js.map",
+    "runtime-main.js": "/exchange-currency/static/js/runtime-main.66a085c6.js",
+    "runtime-main.js.map": "/exchange-currency/static/js/runtime-main.66a085c6.js.map",
+    "static/js/2.43f205c3.chunk.js": "/exchange-currency/static/js/2.43f205c3.chunk.js",
+    "static/js/2.43f205c3.chunk.js.map": "/exchange-currency/static/js/2.43f205c3.chunk.js.map",
+    "index.html": "/exchange-currency/index.html",
+    "static/css/main.6bffb339.chunk.css.map": "/exchange-currency/static/css/main.6bffb339.chunk.css.map",
+    "static/js/2.43f205c3.chunk.js.LICENSE.txt": "/exchange-currency/static/js/2.43f205c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a085c6.js",
+    "static/js/2.43f205c3.chunk.js",
+    "static/css/main.6bffb339.chunk.css",
+    "static/js/main.8fe6ab39.chunk.js"
+  ]
+}
